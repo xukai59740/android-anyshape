@@ -1,7 +1,7 @@
 
 [ ![Download](https://api.bintray.com/packages/lankton/maven/anyshape/images/download.svg) ](https://bintray.com/lankton/maven/anyshape/_latestVersion)
 
-# android-anyshape
+# android-anyshape 根据传入图片，画任意形状布局
 **With the solution, pictures can be displayed in any shape on Android platform.**
 
 ## Effect
